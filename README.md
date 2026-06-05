@@ -27,12 +27,6 @@ Feel free to explore my repos – they might be small now, but they'll grow.
 
 ---
 
-## 🏆 GitHub trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daqsi1488&theme=darkhub&no-frame=true&column=6&margin-w=15">
-</p>
-
 ---
 
 ## 🔥 Current streak
@@ -40,6 +34,7 @@ Feel free to explore my repos – they might be small now, but they'll grow.
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=daqsi1488&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF">
 </p>
+
 
 ---
 
@@ -59,8 +54,8 @@ Feel free to explore my repos – they might be small now, but they'll grow.
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-9nw5-c233sbwkj-daqsi-s-projects.vercel.app/api?username=daqsi1488&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB">
-  <img height="170em" src="https://github-readme-stats-9nw5-c233sbwkj-daqsi-s-projects.vercel.app/api/top-langs/?username=daqsi1488&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF">
+  <img height="170em" src="https://github-readme-stats-9nw5.vercel.app/api?username=daqsi1488&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB">
+  <img height="170em" src="https://github-readme-stats-9nw5.vercel.app/api/top-langs/?username=daqsi1488&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF">
 </p>
 
 ---
@@ -78,13 +73,14 @@ Feel free to explore my repos – they might be small now, but they'll grow.
 
 ---
 
-## 🐍 Contribution snake (optional, needs GitHub Actions)
+## 🐍 Contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/github-contribution-grid-snake.svg">
   <img alt="github-snake" src="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/github-contribution-grid-snake.svg">
-</p>
+</picture>
+
 
 ---
 
