@@ -9,34 +9,39 @@
 
 ---
 
-## 👨‍💻 About me
+## 👿🧠 DAQSI || beginner coder
 
-I'm **DAQSI**, a beginner‑to‑intermediate developer from Russia, currently diving deep into Python and web technologies.  
-This GitHub profile is my workshop – where I experiment, break things, fix them, and gradually build real‑world skills.
+## about me💙🖤💜 :
 
-- 🐍 **Currently focused on**: Python (syntax, functions, OOP, basic algorithms)  
-- 🌐 **Web interests**: HTML, CSS, JavaScript – learning to turn designs into live pages  
-- 📂 **My first repository**: [first-python-scripts](https://github.com/daqsi1488/first-python-scripts) – collection of small exercises  
-- 🧠 **Next goals**:  
-  - Build a simple Django or Flask app  
-  - Learn Git branching and collaborate on open source  
-  - Deploy a static site via GitHub Pages  
+I'm a **beginning programmer** from Russia, passionate about learning and building small projects.  
+Currently exploring:
 
-I believe in consistent progress: one commit a day, one new concept every week.  
-Feel free to explore my repos – they might be small now, but they'll grow.
+- 🐍 **Python** (syntax, OOP, basic algorithms)
+- 🌐 **Web development** (HTML, CSS, JavaScript)
+- 🛠️ **Git & GitHub**
 
----
+I’m open to collaboration and always eager to learn from the open‑source community.  
+Check out my repos – feedback and tips are very welcome!
 
-## 🔥 Current streak
+## 🕵️ My stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats-9nw5.vercel.app/api?username=daqsi1488&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB">
+  <img height="170em" src="https://github-readme-stats-9nw5.vercel.app/api/top-langs/?username=daqsi1488&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF">
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=daqsi1488&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF">
 </p>
 
----
+## 🛠️ Tech & Tools
 
-## 🛠 Tech I use & learn
+<p align="center">
+  <!-- Иконки технологий от skillicons.dev (в стиле профиля pasharofl16-boop) -->
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,git,github,vscode,visualstudio,pycharm,flask">
+</p>
 
+<!-- Альтернативный вариант бейджами, если skillicons не загрузится:
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -44,31 +49,12 @@ Feel free to explore my repos – they might be small now, but they'll grow.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</p>
-
----
-
-## 💻 My dev tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
 </p>
+-->
 
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats-9nw5.vercel.app/api?username=daqsi1488&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB">
-  <img height="170em" src="https://github-readme-stats-9nw5.vercel.app/api/top-langs/?username=daqsi1488&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF">
-</p>
-
----
-
-## 📫 Let's connect
+## 📞 My Contacts :
 
 <p align="center">
   <a href="mailto:pavlovtimofey123@gmail.com">
@@ -79,8 +65,6 @@ Feel free to explore my repos – they might be small now, but they'll grow.
   </a>
 </p>
 
----
-
 ## 🐍 Contribution snake
 
 <picture>
@@ -88,8 +72,6 @@ Feel free to explore my repos – they might be small now, but they'll grow.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/github-contribution-grid-snake.svg">
   <img alt="github-snake" src="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/github-contribution-grid-snake.svg">
 </picture>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
