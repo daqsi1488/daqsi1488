@@ -37,18 +37,7 @@
   Check out my repos – feedback and tips are very welcome! ✨
 </p>
 
----
-## 🚀 Мои проекты
 
-### 🎮 Битва на Python (bitva_py)
-Мячики сражаются  жоска
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daqsi1488&repo=bitva_py&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB)](https://github.com/daqsi1488/bitva_py)
-
-### 🏗️ Система управления краном (crane-control-system)
-Веб-приложение для контроля портальных кранов. Написано на Python с использованием GUI. Отслеживание состояния, управление задачами и логирование операций.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daqsi1488&repo=crane-control-system&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB)](https://github.com/daqsi1488/crane-control-system)
 ---
 
 ## 🕵️ My stats
@@ -67,7 +56,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,html,css,js,git,github,vscode,visualstudio,pycharm,flask">
 </p>
-----
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/galaga-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/galaga-contribution-graph.svg">
