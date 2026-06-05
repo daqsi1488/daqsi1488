@@ -1,5 +1,4 @@
-<!-- Анимированный заголовок от Capsule Render -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Hi,%20I'm%20YOUR_USERNAME&color=gradient&desc=A%20Python%20%26%20Web%20Developer&fontAlign=50&fontAlignY=40&descAlignY=55">
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=daqsi1488&fontAlign=50&fontAlignY=35&desc=Python%20%7C%20Web%20%7C%20Building%20from%20scratch&descAlignY=55">
