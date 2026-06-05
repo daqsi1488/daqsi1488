@@ -38,6 +38,20 @@
 </p>
 
 ---
+## 🚀 Мои проекты
+
+### 🎮 Битва на Python (bitva_py)
+Консольная пошаговая игра на Python. Вы управляете персонажем, сражаетесь с врагами, используете магию и улучшаете характеристики. Проект для отработки ООП и игровой логики.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daqsi1488&repo=bitva_py&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB)](https://github.com/daqsi1488/bitva_py)
+
+### 🏗️ Система управления краном (crane-control-system)
+Веб-приложение для контроля портальных кранов. Написано на Python с использованием Flask. Отслеживание состояния, управление задачами и логирование операций.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daqsi1488&repo=crane-control-system&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB)](https://github.com/daqsi1488/crane-control-system)
+
+> 👆 Карточки проектов создаются автоматически сервисом `github-readme-stats` — просто замените `repo=` на имя вашего репозитория в ссылке.
+---
 
 ## 🕵️ My stats
 
