@@ -10,30 +10,25 @@
 ---
 
 <p align="center">
-  <h2 align="center">✨ about me 💙🖤💜 ✨</h2>
+  <h2 align="center">✨ about me ✨</h2>
 </p>
 
 <p align="center">
-  <b>I'm a beginning programmer from Russia, passionate about learning and building small projects.</b><br><br>
+  I'm a beginning programmer passionate about learning and building small projects.<br>
+  Currently exploring:
+</p>
 
-  ## 🐍 Python
-  • scripting, automation, data analysis<br>
-  • web development with Django/Flask (in progress)<br><br>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> – algorithms, data structures, console apps<br>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"> – small .NET utilities, game dev experiments<br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> – scripting, automation, data analysis<br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> – modern websites, responsive design<br>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> – styling, animations, flexbox, grid<br>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"> – scripting, modding, game configs
+</p>
 
-  ## 🌐 Web Resources
-  • building modern websites with <b>HTML5, CSS3, JavaScript</b><br>
-  • responsive design, flexbox, grid, animations<br><br>
-
-  ## ⚙️ C++
-  • algorithms, data structures, console applications<br><br>
-
-  ## 🎮 C#
-  • small .NET utilities, game development experiments<br><br>
-
-  ## 🔧 Lua
-  • scripting, modding, game configuration<br><br>
-
-  I'm open to collaboration and always eager to learn from the open‑source community.<br>
+<p align="center">
+  I'm open to collaboration and always eager to learn from the open-source community.<br>
   Check out my repos – feedback and tips are very welcome! ✨
 </p>
 
