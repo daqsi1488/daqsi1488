@@ -28,6 +28,9 @@ I believe in consistent progress: one commit a day, one new concept every week.
 Feel free to explore my repos – they might be small now, but they’ll grow.
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)](https://git.io/streak-stats)
+
+---
 
 ## 🛠 Tech I use & learn
 
@@ -43,12 +46,9 @@ Feel free to explore my repos – they might be small now, but they’ll grow.
 ---
 
 ## 📊 GitHub stats (will improve over time)
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=daqsi1488&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daqsi1488&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF">
-</p>
-
+<!-- Статистика GitHub -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF">
 ---
 
 ## 📫 Let's connect
