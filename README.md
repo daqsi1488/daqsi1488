@@ -78,13 +78,12 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
-
 ## 👾 My Contribution Graph (Galaga)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/contribution-graph-galaga-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/contribution-graph-galaga.svg">
-  <img alt="galaga-game" src="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/contribution-graph-galaga.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/galaga-contribution-graph.svg">
+  <img alt="galaga-game" src="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/galaga-contribution-graph.svg">
 </picture>
 
 <p align="center">
