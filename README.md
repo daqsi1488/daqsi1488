@@ -59,8 +59,8 @@ Feel free to explore my repos – they might be small now, but they'll grow.
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=daqsi1488&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daqsi1488&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF">
+  <img height="170em" src="https://github-readme-stats-9nw5-c233sbwkj-daqsi-s-projects.vercel.app/api?username=daqsi1488&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB">
+  <img height="170em" src="https://github-readme-stats-9nw5-c233sbwkj-daqsi-s-projects.vercel.app/api/top-langs/?username=daqsi1488&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF">
 </p>
 
 ---
