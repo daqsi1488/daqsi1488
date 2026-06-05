@@ -50,18 +50,23 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=daqsi1488&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF">
 </p>
+
 ---
+
 ## 🛠️ Tech & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,html,css,js,git,github,vscode,visualstudio,pycharm,flask">
 </p>
+
 ---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/galaga-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/galaga-contribution-graph.svg">
   <img alt="galaga-game" src="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/galaga-contribution-graph.svg">
 </picture>
+
 ---
 
 ## 📞 My Contacts :
