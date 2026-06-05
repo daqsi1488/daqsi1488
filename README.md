@@ -49,8 +49,6 @@
 Веб-приложение для контроля портальных кранов. Написано на Python с использованием Flask. Отслеживание состояния, управление задачами и логирование операций.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daqsi1488&repo=crane-control-system&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB)](https://github.com/daqsi1488/crane-control-system)
-
-> 👆 Карточки проектов создаются автоматически сервисом `github-readme-stats` — просто замените `repo=` на имя вашего репозитория в ссылке.
 ---
 
 ## 🕵️ My stats
