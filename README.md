@@ -63,7 +63,7 @@
 </p>
 
 ## 🛠️ Tech & Tools
-
+---
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,html,css,js,git,github,vscode,visualstudio,pycharm,flask">
 </p>
@@ -73,6 +73,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/galaga-contribution-graph.svg">
   <img alt="galaga-game" src="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/galaga-contribution-graph.svg">
 </picture>
+---
 
 ## 📞 My Contacts :
 
