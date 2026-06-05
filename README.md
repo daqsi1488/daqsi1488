@@ -2,6 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=DAQSI&fontAlign=50&fontAlignY=35&desc=Python%20%7C%20Web%20%7C%20Building%20from%20scratch&descAlignY=55">
 </p>
 
+<!-- GITHUB GALAXY CARD -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/daqsi1488/cosmic-daqsi1488/main/assets/generated/galaxy-header.svg">
+</p>
+
 <!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Python+developer+(in+progress);Learning+web+development;First+repo+is+just+the+beginning">
