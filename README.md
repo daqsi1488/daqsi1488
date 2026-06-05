@@ -15,14 +15,24 @@
 
 <p align="center">
   <b>I'm a beginning programmer from Russia, passionate about learning and building small projects.</b><br><br>
-  🐍 <b>Currently exploring:</b><br>
-  • <b>Python</b> (syntax, OOP, basic algorithms)<br>
-  • <b>Web development</b> (HTML, CSS, JavaScript)<br>
-  • <b>Git & GitHub</b><br><br>
-  🖥️ <b>Also interested in:</b><br>
-  • <b>C++</b> (algorithms, data structures, console apps)<br>
-  • <b>C#</b> (small .NET utilities, game dev experiments)<br>
-  • <b>Lua</b> (scripting, modding)<br><br>
+
+  ## 🐍 Python
+  • scripting, automation, data analysis<br>
+  • web development with Django/Flask (in progress)<br><br>
+
+  ## 🌐 Web Resources
+  • building modern websites with <b>HTML5, CSS3, JavaScript</b><br>
+  • responsive design, flexbox, grid, animations<br><br>
+
+  ## ⚙️ C++
+  • algorithms, data structures, console applications<br><br>
+
+  ## 🎮 C#
+  • small .NET utilities, game development experiments<br><br>
+
+  ## 🔧 Lua
+  • scripting, modding, game configuration<br><br>
+
   I'm open to collaboration and always eager to learn from the open‑source community.<br>
   Check out my repos – feedback and tips are very welcome! ✨
 </p>
@@ -40,34 +50,11 @@
   <img src="https://streak-stats.demolab.com/?user=daqsi1488&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF">
 </p>
 
-## 💻 My Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,cs,lua">
-</p>
-
 ## 🛠️ Tech & Tools
 
 <p align="center">
-  <!-- Иконки технологий от skillicons.dev -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,visualstudio,pycharm,flask">
+  <img src="https://skillicons.dev/icons?i=py,html,css,js,git,github,vscode,visualstudio,pycharm,flask">
 </p>
-
-<!-- Альтернативный вариант бейджами, если skillicons не загрузится:
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
-</p>
--->
 
 ## 📞 My Contacts :
 
