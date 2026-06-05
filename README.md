@@ -9,19 +9,21 @@
 
 ---
 
-## 👿🧠 DAQSI || beginner coder
+<p align="center">
+  <h2 align="center">✨ about me 💙🖤💜 ✨</h2>
+</p>
 
-## about me💙🖤💜 :
+<p align="center">
+  <b>I'm a beginning programmer from Russia, passionate about learning and building small projects.</b><br><br>
+  🐍 <b>Currently exploring:</b><br>
+  • <b>Python</b> (syntax, OOP, basic algorithms)<br>
+  • <b>Web development</b> (HTML, CSS, JavaScript)<br>
+  • <b>Git & GitHub</b><br><br>
+  I'm open to collaboration and always eager to learn from the open‑source community.<br>
+  Check out my repos – feedback and tips are very welcome! ✨
+</p>
 
-I'm a **beginning programmer** from Russia, passionate about learning and building small projects.  
-Currently exploring:
-
-- 🐍 **Python** (syntax, OOP, basic algorithms)
-- 🌐 **Web development** (HTML, CSS, JavaScript)
-- 🛠️ **Git & GitHub**
-
-I’m open to collaboration and always eager to learn from the open‑source community.  
-Check out my repos – feedback and tips are very welcome!
+---
 
 ## 🕵️ My stats
 
