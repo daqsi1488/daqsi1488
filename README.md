@@ -68,6 +68,12 @@
   <img src="https://skillicons.dev/icons?i=py,html,css,js,git,github,vscode,visualstudio,pycharm,flask">
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/galaga-contribution-graph.svg">
+  <img alt="galaga-game" src="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/galaga-contribution-graph.svg">
+</picture>
+
 ## 📞 My Contacts :
 
 <p align="center">
@@ -78,12 +84,6 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/galaga-contribution-graph.svg">
-  <img alt="galaga-game" src="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/galaga-contribution-graph.svg">
-</picture>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
