@@ -67,12 +67,12 @@
   </a>
 </p>
 
-## 🐍 Contribution snake
+## 👾 My Contribution Graph (Galaga)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/contribution-graph-galaga-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/contribution-graph-galaga.svg">
+  <img alt="galaga-game" src="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/contribution-graph-galaga.svg">
 </picture>
 
 <p align="center">
