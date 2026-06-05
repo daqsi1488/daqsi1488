@@ -27,14 +27,11 @@ Feel free to explore my repos – they might be small now, but they'll grow.
 
 ---
 
----
-
 ## 🔥 Current streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=daqsi1488&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF">
 </p>
-
 
 ---
 
@@ -47,6 +44,17 @@ Feel free to explore my repos – they might be small now, but they'll grow.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+---
+
+## 💻 My dev tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 ---
@@ -80,7 +88,6 @@ Feel free to explore my repos – they might be small now, but they'll grow.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/github-contribution-grid-snake.svg">
   <img alt="github-snake" src="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/github-contribution-grid-snake.svg">
 </picture>
-
 
 ---
 
