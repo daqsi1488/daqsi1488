@@ -32,3 +32,4 @@ jobs:
           # 💅 Настройки внешнего вида
           config_timezone: Europe/Moscow
           filename: metrics.svg
+          git_branch: metrics          # 👈 ЭТО НУЖНО ДОБАВИТЬ
