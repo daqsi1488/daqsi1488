@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> – styling, animations, flexbox, grid<br>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"> – scripting, modding, game configs
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daqsi1488)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
   I'm open to collaboration and always eager to learn from the open-source community.<br>
   Check out my repos – feedback and tips are very welcome! ✨
@@ -50,6 +50,13 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=daqsi1488&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF">
 </p>
+
+- uses: lowlighter/metrics@latest
+  with:
+    plugin_languages: yes
+    plugin_languages_details: bytes-size, percentage  # показывает и размер, и проценты
+    plugin_languages_limit: 8                         # до 8 языков
+    plugin_languages_threshold: 2%                    # скрывает языки меньше 2%
 
 ---
 
