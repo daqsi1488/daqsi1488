@@ -51,12 +51,6 @@
   <img src="https://streak-stats.demolab.com/?user=daqsi1488&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF">
 </p>
 
-- uses: lowlighter/metrics@latest
-  with:
-    plugin_languages: yes
-    plugin_languages_details: bytes-size, percentage  # показывает и размер, и проценты
-    plugin_languages_limit: 8                         # до 8 языков
-    plugin_languages_threshold: 2%                    # скрывает языки меньше 2%
 
 ---
 
