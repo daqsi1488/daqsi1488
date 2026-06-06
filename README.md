@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> – styling, animations, flexbox, grid<br>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"> – scripting, modding, game configs
 </p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daqsi1488)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   I'm open to collaboration and always eager to learn from the open-source community.<br>
   Check out my repos – feedback and tips are very welcome! ✨
