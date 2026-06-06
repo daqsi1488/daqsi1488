@@ -1,8 +1,8 @@
 name: Metrics
 on:
   schedule:
-    - cron: '0 0 * * *'  # каждый день в 00:00 UTC
-  workflow_dispatch:      # можно запускать вручную
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   github-metrics:
@@ -23,13 +23,12 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_threshold: 1%
           plugin_languages_sections: most-used
-          plugin_languages_indentation: 2
           
           # 🎨 Дополнительные фичи (опционально)
-          plugin_lines: yes           # показывает строки кода
+          plugin_lines: yes
           plugin_lines_history_limit: 1
           
           # 💅 Настройки внешнего вида
           config_timezone: Europe/Moscow
           filename: metrics.svg
-          git_branch: metrics          # 👈 ЭТО НУЖНО ДОБАВИТЬ
+          committer_branch: metrics     # 👈 ВОТ ПРАВИЛЬНОЕ НАЗВАНИЕ
