@@ -60,11 +60,10 @@
 </p>
 
 ---
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/galaga-contribution-graph.svg">
-  <img alt="galaga-game" src="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/galaga-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/daqsi1488/daqsi1488/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
