@@ -12,7 +12,11 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # 🔑 ГЛАВНОЕ ИЗМЕНЕНИЕ: используем PAT для чтения всех репозиториев
+          token: ${{ secrets.METRICS_TOKEN }}
+          # 🔑 И токен для записи в ветку metrics
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          
           user: daqsi1488
           template: classic
           base: ''
@@ -31,4 +35,4 @@ jobs:
           # 💅 Настройки внешнего вида
           config_timezone: Europe/Moscow
           filename: metrics.svg
-          committer_branch: metrics     # 👈 ВОТ ПРАВИЛЬНОЕ НАЗВАНИЕ
+          committer_branch: metrics
