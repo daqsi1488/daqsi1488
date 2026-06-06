@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 Языки программирования (проценты)
+## 📊 My Languages
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/daqsi1488/daqsi1488/metrics/metrics.svg">
