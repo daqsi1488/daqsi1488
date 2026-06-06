@@ -1,4 +1,4 @@
-name: generate galaga game
+name: generate pacman game
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -15,11 +15,11 @@ jobs:
       contents: write
     
     steps:
-      - name: generate galaga svg
+      - name: generate pacman svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: daqsi1488
-          games: galaga
+          games: pacman
       
       - name: deploy to output branch
         uses: peaceiris/actions-gh-pages@v4
@@ -27,4 +27,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          commit_message: "update galaga game"
+          commit_message: "update pacman game"
