@@ -51,6 +51,13 @@
   <img src="https://streak-stats.demolab.com/?user=daqsi1488&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF">
 </p>
 
+---
+
+## 📊 Языки программирования (проценты)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/daqsi1488/daqsi1488/metrics/metrics.svg">
+</p>
 
 ---
 
