@@ -20,7 +20,7 @@
 
 <p align="center">
   I'm a beginning programmer passionate about learning and building small projects.<br>
-  Currently exploring)):
+  Currently exploring):
 </p>
 
 <p align="center">
